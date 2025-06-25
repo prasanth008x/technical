@@ -114,7 +114,7 @@
 
 <script>
   const validUsernames = [];
-  for (let i = 922522106100; i <= 922522106180; i++) validUsernames.push(i.toString());
+  for (let i = 922522106000; i <= 922522106185; i++) validUsernames.push(i.toString());
 
   const questions = {
     "2025-06-25": []
@@ -126,12 +126,12 @@
   let currentUser = "";
 
   function login() {
-    const uname = document.getElementById('username').value;
+    const uname = document.getElementById('userId').value;
     const pass = document.getElementById('password').value;
     const msg = document.getElementById('loginMsg');
 
     if (!validUsernames.includes(uname)) {
-      msg.textContent = "Invalid Username!";
+      msg.textContent = "Invalid UserId!";
       return;
     }
     if (pass !== "vsb123") {
