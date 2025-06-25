@@ -1,0 +1,204 @@
+{
+  "2025-06-25": [
+    {
+      "question": "What is the function of a Zener diode in a circuit?",
+      "options": [
+        "Amplifier",
+        "Voltage Regulator",
+        "Rectifier",
+        "Oscillator"
+      ],
+      "answer": "Voltage Regulator"
+    },
+    {
+      "question": "Which of the following laws is used in mesh analysis?",
+      "options": [
+        "Kirchhoff\u2019s Voltage Law",
+        "Ohm\u2019s Law",
+        "Faraday's Law",
+        "Ampere\u2019s Law"
+      ],
+      "answer": "Kirchhoff\u2019s Voltage Law"
+    },
+    {
+      "question": "What is the output of a NOT gate if the input is 1?",
+      "options": [
+        "0",
+        "1",
+        "Undefined",
+        "Error"
+      ],
+      "answer": "0"
+    },
+    {
+      "question": "In Thevenin\u2019s theorem, the equivalent circuit contains:",
+      "options": [
+        "Current source and resistance",
+        "Voltage source and resistance",
+        "Only resistance",
+        "Inductor and capacitor"
+      ],
+      "answer": "Voltage source and resistance"
+    },
+    {
+      "question": "How many junctions does a transistor have?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2"
+    },
+    {
+      "question": "Which gate gives high output only when both inputs are different?",
+      "options": [
+        "AND",
+        "OR",
+        "XOR",
+        "NAND"
+      ],
+      "answer": "XOR"
+    },
+    {
+      "question": "Which of these is used for current amplification?",
+      "options": [
+        "Capacitor",
+        "Diode",
+        "Transistor",
+        "Inductor"
+      ],
+      "answer": "Transistor"
+    },
+    {
+      "question": "What is the formula to calculate impedance in a purely resistive circuit?",
+      "options": [
+        "Z = R",
+        "Z = XL",
+        "Z = XC",
+        "Z = R + jX"
+      ],
+      "answer": "Z = R"
+    },
+    {
+      "question": "Which component blocks DC but allows AC?",
+      "options": [
+        "Resistor",
+        "Capacitor",
+        "Inductor",
+        "Transformer"
+      ],
+      "answer": "Capacitor"
+    },
+    {
+      "question": "If R = 5\u03a9 and I = 2A, what is the power dissipated?",
+      "options": [
+        "5W",
+        "10W",
+        "20W",
+        "40W"
+      ],
+      "answer": "20W"
+    },
+    {
+      "question": "What is the unit of conductance?",
+      "options": [
+        "Siemens",
+        "Farad",
+        "Henry",
+        "Ohm"
+      ],
+      "answer": "Siemens"
+    },
+    {
+      "question": "What is the current in a 20\u03a9 resistor with 100V across it?",
+      "options": [
+        "2A",
+        "5A",
+        "10A",
+        "20A"
+      ],
+      "answer": "5A"
+    },
+    {
+      "question": "Which component stores energy in magnetic field?",
+      "options": [
+        "Resistor",
+        "Capacitor",
+        "Inductor",
+        "Diode"
+      ],
+      "answer": "Inductor"
+    },
+    {
+      "question": "Which theorem is best suited to simplify a network with multiple sources?",
+      "options": [
+        "Norton\u2019s Theorem",
+        "Superposition Theorem",
+        "Thevenin\u2019s Theorem",
+        "Maximum Power Transfer Theorem"
+      ],
+      "answer": "Superposition Theorem"
+    },
+    {
+      "question": "What does a CRO primarily display?",
+      "options": [
+        "Voltage vs Time",
+        "Current vs Resistance",
+        "Power vs Time",
+        "Charge vs Voltage"
+      ],
+      "answer": "Voltage vs Time"
+    },
+    {
+      "question": "Which circuit is used to convert AC to DC?",
+      "options": [
+        "Amplifier",
+        "Oscillator",
+        "Rectifier",
+        "Modulator"
+      ],
+      "answer": "Rectifier"
+    },
+    {
+      "question": "Which parameter is measured in Henry?",
+      "options": [
+        "Capacitance",
+        "Resistance",
+        "Inductance",
+        "Conductance"
+      ],
+      "answer": "Inductance"
+    },
+    {
+      "question": "Which logic gate is known as universal gate?",
+      "options": [
+        "AND",
+        "OR",
+        "NAND",
+        "XOR"
+      ],
+      "answer": "NAND"
+    },
+    {
+      "question": "Which component opposes the change in voltage?",
+      "options": [
+        "Inductor",
+        "Resistor",
+        "Diode",
+        "Capacitor"
+      ],
+      "answer": "Capacitor"
+    },
+    {
+      "question": "What happens to total resistance when resistors are connected in parallel?",
+      "options": [
+        "Increases",
+        "Remains Same",
+        "Decreases",
+        "Becomes Zero"
+      ],
+      "answer": "Decreases"
+    }
+  ]
+}
